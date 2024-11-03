@@ -6,18 +6,18 @@ Key Features:
 3. Search functionality
 4. Form validation
 
-    Prevents duplicate roll numbers
-    Age validation (5-100)
-   Email format validation
+    a.Prevents duplicate roll numbers
+    b.Age validation (5-100)
+    c.Email format validation
 
 
 5. Persistent storage using localStorage
 6. Responsive design
 7. Statistics display
 
-    Total number of students
-    Average age
-    Average grade
+    a.Total number of students
+    b.Average age
+    c.Average grade
 
 
 #
